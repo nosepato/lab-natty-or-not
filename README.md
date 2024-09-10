@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# RPG Pokemon X
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um pequeno RPG com "novos" Pokemons que vão surpreender!
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização;
+IA Generativa Leonardo AI para criar a arte visual dos Pokemons;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o "ChatGPT" para criar um pequeno roteiro de aventuras e desafios, já o "Leonardo AI" usei para a criação das imagens dos novos Pokemons.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Uma empolgante aventura Pokemon.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
 ```
 
 ### Exemplos e Insigths
